@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Administrateur\\Desktop\\BasesC#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4CE95766-2A02-4126-9DDB-1D6BAEF13104}|ExerciceStatic\\ExerciceStatic.csproj|c:\\users\\administrateur\\desktop\\basesc#\\exercicestatic\\classes\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE95766-2A02-4126-9DDB-1D6BAEF13104}|ExerciceStatic\\ExerciceStatic.csproj|solutionrelative:exercicestatic\\classes\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4CE95766-2A02-4126-9DDB-1D6BAEF13104}|ExerciceStatic\\ExerciceStatic.csproj|c:\\users\\administrateur\\desktop\\basesc#\\exercicestatic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CE95766-2A02-4126-9DDB-1D6BAEF13104}|ExerciceStatic\\ExerciceStatic.csproj|solutionrelative:exercicestatic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CE95766-2A02-4126-9DDB-1D6BAEF13104}|ExerciceStatic\\ExerciceStatic.csproj|c:\\users\\administrateur\\desktop\\basesc#\\exercicestatic\\classes\\orderutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CE95766-2A02-4126-9DDB-1D6BAEF13104}|ExerciceStatic\\ExerciceStatic.csproj|solutionrelative:exercicestatic\\classes\\orderutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CE95766-2A02-4126-9DDB-1D6BAEF13104}|ExerciceStatic\\ExerciceStatic.csproj|c:\\users\\administrateur\\desktop\\basesc#\\exercicestatic\\classes\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CE95766-2A02-4126-9DDB-1D6BAEF13104}|ExerciceStatic\\ExerciceStatic.csproj|solutionrelative:exercicestatic\\classes\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91DA3130-74E7-4CC6-A01C-7EA8A7556B2B}|ExerciceAnimauxEnclosVeto\\ExerciceAnimauxEnclosVeto.csproj|c:\\users\\administrateur\\desktop\\basesc#\\exerciceanimauxenclosveto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 332,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -50,8 +50,7 @@
               "RelativeToolTip": "ExerciceAnimauxEnclosVeto\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T11:16:32.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T11:16:32.274Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "ExerciceAnimauxEnclosVeto\\Classes\\VetoReport.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T11:16:28.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T11:16:28.62Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "ExerciceAnimauxEnclosVeto\\Classes\\Enclos.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T11:16:25.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T11:16:25.298Z"
             },
             {
               "$type": "Document",
@@ -89,30 +86,29 @@
               "RelativeToolTip": "ExerciceAnimauxEnclosVeto\\Classes\\Animal.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T11:16:23.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T11:16:23.782Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\BasesC#\\ExerciceStatic\\Classes\\Order.cs",
               "RelativeDocumentMoniker": "ExerciceStatic\\Classes\\Order.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\BasesC#\\ExerciceStatic\\Classes\\Order.cs",
-              "RelativeToolTip": "ExerciceStatic\\Classes\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\BasesC#\\ExerciceStatic\\Classes\\Order.cs*",
+              "RelativeToolTip": "ExerciceStatic\\Classes\\Order.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T13:08:03.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "OrderUtils.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\BasesC#\\ExerciceStatic\\Classes\\OrderUtils.cs",
               "RelativeDocumentMoniker": "ExerciceStatic\\Classes\\OrderUtils.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\BasesC#\\ExerciceStatic\\Classes\\OrderUtils.cs*",
-              "RelativeToolTip": "ExerciceStatic\\Classes\\OrderUtils.cs*",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\BasesC#\\ExerciceStatic\\Classes\\OrderUtils.cs",
+              "RelativeToolTip": "ExerciceStatic\\Classes\\OrderUtils.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T13:33:10.485Z",
@@ -120,13 +116,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\BasesC#\\ExerciceStatic\\Program.cs",
               "RelativeDocumentMoniker": "ExerciceStatic\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\BasesC#\\ExerciceStatic\\Program.cs*",
-              "RelativeToolTip": "ExerciceStatic\\Program.cs*",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAACUAAABdAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\BasesC#\\ExerciceStatic\\Program.cs",
+              "RelativeToolTip": "ExerciceStatic\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T13:06:37.112Z",
               "EditorCaption": ""
