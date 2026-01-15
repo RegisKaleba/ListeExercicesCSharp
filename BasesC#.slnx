@@ -31,5 +31,6 @@
   <Project Path="ExercicePOOChaise/ExercicePOOChaise.csproj" Id="b9e996b1-0363-4902-a091-140a50aca0c3" />
   <Project Path="ExercicePOOPendu/ExercicePOOPendu.csproj" Id="ea4888bf-4098-4765-ae1f-6137c66d2e33" />
   <Project Path="ExercicePOOSalarie/ExercicePOOSalarie.csproj" Id="a9afc0b8-5ac8-43ce-b781-c4349cbeee8d" />
+  <Project Path="ExerciceStatic/ExerciceStatic.csproj" Id="4ce95766-2a02-4126-9ddb-1d6baef13104" />
   <Project Path="ExoCompteBancaire/ExoCompteBancaire.csproj" Id="da5687f4-430c-4979-898b-1ed16b326b5c" />
 </Solution>

@@ -12,3 +12,4 @@ C:\Users\Administrateur\Desktop\BasesC#\ExerciceAnimauxEnclosVeto\obj\Debug\net1
 C:\Users\Administrateur\Desktop\BasesC#\ExerciceAnimauxEnclosVeto\obj\Debug\net10.0\ExerciceAnimauxEnclosVeto.pdb
 C:\Users\Administrateur\Desktop\BasesC#\ExerciceAnimauxEnclosVeto\obj\Debug\net10.0\ExerciceAnimauxEnclosVeto.genruntimeconfig.cache
 C:\Users\Administrateur\Desktop\BasesC#\ExerciceAnimauxEnclosVeto\obj\Debug\net10.0\ref\ExerciceAnimauxEnclosVeto.dll
+C:\Users\Administrateur\Desktop\BasesC#\ExerciceAnimauxEnclosVeto\obj\Debug\net10.0\ExerciceAnimauxEnclosVeto.sourcelink.json
