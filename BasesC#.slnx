@@ -1,0 +1,35 @@
+<Solution>
+  <Project Path="BasesC#/BasesC#.csproj" />
+  <Project Path="DemoPOOSuite/DemoPOOSuite.csproj" Id="e40c9247-ab06-4cc3-a39f-f19713e1be5e" />
+  <Project Path="Exercice-10/Exercice-10.csproj" Id="3ae16360-cd10-480a-902a-9962fee85345" />
+  <Project Path="Exercice-11/Exercice-11.csproj" Id="a0f4a2ed-e3a2-4f05-9abd-c7cca3cd7a7f" />
+  <Project Path="Exercice-12/Exercice-12.csproj" Id="15a8a625-df93-42da-853a-5be3f916e3cc" />
+  <Project Path="Exercice-13/Exercice-13.csproj" Id="85065e15-8a9a-492e-bcb2-e08770fd31bb" />
+  <Project Path="Exercice-14/Exercice-14.csproj" Id="9e6c6b2d-b4b5-44e9-b43d-0317f0ea8a9f" />
+  <Project Path="Exercice-15/Exercice-15.csproj" Id="9db32674-98c9-4557-8cc2-69447aa6ba55" />
+  <Project Path="Exercice-16/Exercice-16.csproj" Id="9a888bbf-fe12-4c9c-940d-95e982fee1ba" />
+  <Project Path="Exercice-17/Exercice-17.csproj" Id="74e27623-abbe-4dde-bbfc-06a43d53bb85" />
+  <Project Path="Exercice-18/Exercice-18.csproj" Id="7de7b4b9-4c4b-495d-a7c8-3bde92622702" />
+  <Project Path="Exercice-19/Exercice-19.csproj" Id="96a7d52c-5cca-4a90-8a03-da52ae558115" />
+  <Project Path="Exercice-20/Exercice-20.csproj" Id="58dd8b63-047d-46bf-8641-b30a2b3fe2f0" />
+  <Project Path="Exercice-21/Exercice-21.csproj" Id="011072de-025e-490e-acee-8bcdb9176597" />
+  <Project Path="Exercice-22/Exercice-22.csproj" Id="ce169490-75ce-44b3-9fd5-68659bbbe5cd" />
+  <Project Path="Exercice-23/Exercice-23.csproj" Id="f227d350-0b65-496d-a33d-2166fbf454f9" />
+  <Project Path="Exercice-24/Exercice-24.csproj" Id="d47de1ee-8e40-45a6-9dc2-962da56a6965" />
+  <Project Path="Exercice-25/Exercice-25.csproj" Id="1d8320e3-bfe0-4029-8bde-6974a4d9acc8" />
+  <Project Path="Exercice-26/Exercice-26.csproj" Id="7d94fe7c-6c35-4f83-a708-48f4e9c51128" />
+  <Project Path="Exercice-27/Exercice-27.csproj" Id="f839f92d-0a37-481b-a8fc-ab0b702bb940" />
+  <Project Path="Exercice-28/Exercice-28.csproj" Id="ae1e4326-fdb6-41ae-ae7f-13eab2db2857" />
+  <Project Path="Exercice-Bonus/Exercice-Bonus.csproj" Id="679735d7-b5c9-4b8c-a686-54ab0bcd4dd2" />
+  <Project Path="Exercice-POO1/ExercicePOO1.csproj" Id="1b10306c-2001-43c1-ad77-1b9bd9b433bc" />
+  <Project Path="Exercice5/Exercice5.csproj" Id="49313a1a-031f-4caf-8c0d-00915e16a99c" />
+  <Project Path="Exercice6/Exercice6.csproj" Id="c1d75883-4f1f-4608-8682-ddffa0613e9f" />
+  <Project Path="Exercice7/Exercice7.csproj" Id="827f29e1-0e22-4ee5-8165-a70867a56502" />
+  <Project Path="Exercice8/Exercice8.csproj" Id="e2b4e484-41cc-422d-8fdc-4f8b783f9797" />
+  <Project Path="ExerciceAnimauxEnclosVeto/ExerciceAnimauxEnclosVeto.csproj" Id="91da3130-74e7-4cc6-a01c-7ea8a7556b2b" />
+  <Project Path="ExerciceCiterne/ExerciceCiterne.csproj" Id="34527eff-9642-4a8f-8783-0441e3cd6fef" />
+  <Project Path="ExercicePOOChaise/ExercicePOOChaise.csproj" Id="b9e996b1-0363-4902-a091-140a50aca0c3" />
+  <Project Path="ExercicePOOPendu/ExercicePOOPendu.csproj" Id="ea4888bf-4098-4765-ae1f-6137c66d2e33" />
+  <Project Path="ExercicePOOSalarie/ExercicePOOSalarie.csproj" Id="a9afc0b8-5ac8-43ce-b781-c4349cbeee8d" />
+  <Project Path="ExoCompteBancaire/ExoCompteBancaire.csproj" Id="da5687f4-430c-4979-898b-1ed16b326b5c" />
+</Solution>

@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\BasesC#\Exercice-20\bin\Debug\net10.0\Exercice-20.exe
+C:\Users\Administrateur\Desktop\BasesC#\Exercice-20\bin\Debug\net10.0\Exercice-20.deps.json
+C:\Users\Administrateur\Desktop\BasesC#\Exercice-20\bin\Debug\net10.0\Exercice-20.runtimeconfig.json
+C:\Users\Administrateur\Desktop\BasesC#\Exercice-20\bin\Debug\net10.0\Exercice-20.dll
+C:\Users\Administrateur\Desktop\BasesC#\Exercice-20\bin\Debug\net10.0\Exercice-20.pdb
+C:\Users\Administrateur\Desktop\BasesC#\Exercice-20\obj\Debug\net10.0\Exercice-20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\BasesC#\Exercice-20\obj\Debug\net10.0\Exercice-20.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\BasesC#\Exercice-20\obj\Debug\net10.0\Exercice-20.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\BasesC#\Exercice-20\obj\Debug\net10.0\Exercice-20.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\BasesC#\Exercice-20\obj\Debug\net10.0\Exercice-20.dll
+C:\Users\Administrateur\Desktop\BasesC#\Exercice-20\obj\Debug\net10.0\refint\Exercice-20.dll
+C:\Users\Administrateur\Desktop\BasesC#\Exercice-20\obj\Debug\net10.0\Exercice-20.pdb
+C:\Users\Administrateur\Desktop\BasesC#\Exercice-20\obj\Debug\net10.0\Exercice-20.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\BasesC#\Exercice-20\obj\Debug\net10.0\ref\Exercice-20.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\BasesC#\ExerciceCiterne\bin\Debug\net10.0\ExerciceCiterne.exe
+C:\Users\Administrateur\Desktop\BasesC#\ExerciceCiterne\bin\Debug\net10.0\ExerciceCiterne.deps.json
+C:\Users\Administrateur\Desktop\BasesC#\ExerciceCiterne\bin\Debug\net10.0\ExerciceCiterne.runtimeconfig.json
+C:\Users\Administrateur\Desktop\BasesC#\ExerciceCiterne\bin\Debug\net10.0\ExerciceCiterne.dll
+C:\Users\Administrateur\Desktop\BasesC#\ExerciceCiterne\bin\Debug\net10.0\ExerciceCiterne.pdb
+C:\Users\Administrateur\Desktop\BasesC#\ExerciceCiterne\obj\Debug\net10.0\ExerciceCiterne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\BasesC#\ExerciceCiterne\obj\Debug\net10.0\ExerciceCiterne.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\BasesC#\ExerciceCiterne\obj\Debug\net10.0\ExerciceCiterne.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\BasesC#\ExerciceCiterne\obj\Debug\net10.0\ExerciceCiterne.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\BasesC#\ExerciceCiterne\obj\Debug\net10.0\ExerciceCiterne.dll
+C:\Users\Administrateur\Desktop\BasesC#\ExerciceCiterne\obj\Debug\net10.0\refint\ExerciceCiterne.dll
+C:\Users\Administrateur\Desktop\BasesC#\ExerciceCiterne\obj\Debug\net10.0\ExerciceCiterne.pdb
+C:\Users\Administrateur\Desktop\BasesC#\ExerciceCiterne\obj\Debug\net10.0\ExerciceCiterne.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\BasesC#\ExerciceCiterne\obj\Debug\net10.0\ref\ExerciceCiterne.dll

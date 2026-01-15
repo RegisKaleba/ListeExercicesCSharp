@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\BasesC#\ExercicePOOSalarie\obj\Debug\net10.0\ExercicePOOSalarie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\BasesC#\ExercicePOOSalarie\obj\Debug\net10.0\ExercicePOOSalarie.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\BasesC#\ExercicePOOSalarie\obj\Debug\net10.0\ExercicePOOSalarie.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\BasesC#\ExercicePOOSalarie\obj\Debug\net10.0\ExercicePOOSalarie.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\BasesC#\ExercicePOOSalarie\bin\Debug\net10.0\ExercicePOOSalarie.exe
+C:\Users\Administrateur\Desktop\BasesC#\ExercicePOOSalarie\bin\Debug\net10.0\ExercicePOOSalarie.deps.json
+C:\Users\Administrateur\Desktop\BasesC#\ExercicePOOSalarie\bin\Debug\net10.0\ExercicePOOSalarie.runtimeconfig.json
+C:\Users\Administrateur\Desktop\BasesC#\ExercicePOOSalarie\bin\Debug\net10.0\ExercicePOOSalarie.dll
+C:\Users\Administrateur\Desktop\BasesC#\ExercicePOOSalarie\bin\Debug\net10.0\ExercicePOOSalarie.pdb
+C:\Users\Administrateur\Desktop\BasesC#\ExercicePOOSalarie\obj\Debug\net10.0\ExercicePOOSalarie.dll
+C:\Users\Administrateur\Desktop\BasesC#\ExercicePOOSalarie\obj\Debug\net10.0\refint\ExercicePOOSalarie.dll
+C:\Users\Administrateur\Desktop\BasesC#\ExercicePOOSalarie\obj\Debug\net10.0\ExercicePOOSalarie.pdb
+C:\Users\Administrateur\Desktop\BasesC#\ExercicePOOSalarie\obj\Debug\net10.0\ExercicePOOSalarie.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\BasesC#\ExercicePOOSalarie\obj\Debug\net10.0\ref\ExercicePOOSalarie.dll

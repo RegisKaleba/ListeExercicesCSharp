@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\BasesC#\Exercice5\obj\Debug\net10.0\Exercice5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\BasesC#\Exercice5\obj\Debug\net10.0\Exercice5.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\BasesC#\Exercice5\obj\Debug\net10.0\Exercice5.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\BasesC#\Exercice5\obj\Debug\net10.0\Exercice5.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\BasesC#\Exercice5\bin\Debug\net10.0\Exercice5.exe
+C:\Users\Administrateur\Desktop\BasesC#\Exercice5\bin\Debug\net10.0\Exercice5.deps.json
+C:\Users\Administrateur\Desktop\BasesC#\Exercice5\bin\Debug\net10.0\Exercice5.runtimeconfig.json
+C:\Users\Administrateur\Desktop\BasesC#\Exercice5\bin\Debug\net10.0\Exercice5.dll
+C:\Users\Administrateur\Desktop\BasesC#\Exercice5\bin\Debug\net10.0\Exercice5.pdb
+C:\Users\Administrateur\Desktop\BasesC#\Exercice5\obj\Debug\net10.0\Exercice5.dll
+C:\Users\Administrateur\Desktop\BasesC#\Exercice5\obj\Debug\net10.0\refint\Exercice5.dll
+C:\Users\Administrateur\Desktop\BasesC#\Exercice5\obj\Debug\net10.0\Exercice5.pdb
+C:\Users\Administrateur\Desktop\BasesC#\Exercice5\obj\Debug\net10.0\Exercice5.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\BasesC#\Exercice5\obj\Debug\net10.0\ref\Exercice5.dll
